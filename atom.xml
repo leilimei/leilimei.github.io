@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leilimei.github.io/</id>
     <title>Chengdu Shengnuo Biopharm Co., Ltd</title>
-    <updated>2019-12-20T12:32:01.492Z</updated>
+    <updated>2019-12-20T12:46:41.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leilimei.github.io/"/>
     <link rel="self" href="https://leilimei.github.io//atom.xml"/>
@@ -14,6 +14,48 @@ We are mainly engaged in the research of peptide, peptide medicine and beauty pe
     <logo>https://leilimei.github.io//images/avatar.png</logo>
     <icon>https://leilimei.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Chengdu Shengnuo Biopharm Co., Ltd</rights>
+    <entry>
+        <title type="html"><![CDATA[Research Peptide APIs for Regulatory Market]]></title>
+        <id>https://leilimei.github.io//post/c1JeHi2XU</id>
+        <link href="https://leilimei.github.io//post/c1JeHi2XU">
+        </link>
+        <updated>2019-12-20T12:40:58.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mexico Registered APIs]]></title>
+        <id>https://leilimei.github.io//post/xlGvBk70-</id>
+        <link href="https://leilimei.github.io//post/xlGvBk70-">
+        </link>
+        <updated>2019-12-20T12:39:41.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese cGMP APIs]]></title>
+        <id>https://leilimei.github.io//post/g_J5Pr-2F</id>
+        <link href="https://leilimei.github.io//post/g_J5Pr-2F">
+        </link>
+        <updated>2019-12-20T12:37:43.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US-DMF List]]></title>
+        <id>https://leilimei.github.io//post/sFsFCsANF</id>
+        <link href="https://leilimei.github.io//post/sFsFCsANF">
+        </link>
+        <updated>2019-12-20T12:36:30.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CMC Service]]></title>
+        <id>https://leilimei.github.io//post/bisPau36V</id>
+        <link href="https://leilimei.github.io//post/bisPau36V">
+        </link>
+        <updated>2019-12-20T12:35:57.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Production Capacity]]></title>
+        <id>https://leilimei.github.io//post/koHJcY9v-</id>
+        <link href="https://leilimei.github.io//post/koHJcY9v-">
+        </link>
+        <updated>2019-12-20T12:35:15.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chengdu Shengnuo Biopharm Co., Ltd]]></title>
         <id>https://leilimei.github.io//post/LDNh4tqiR</id>
