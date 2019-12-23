@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leilimei.github.io/</id>
     <title>Chengdu Shengnuo Biopharm Co., Ltd</title>
-    <updated>2019-12-23T10:56:43.268Z</updated>
+    <updated>2019-12-23T11:08:30.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leilimei.github.io/"/>
     <link rel="self" href="https://leilimei.github.io//atom.xml"/>
@@ -14,6 +14,20 @@ We are mainly engaged in the research of peptide, peptide medicine and beauty pe
     <logo>https://leilimei.github.io//images/avatar.png</logo>
     <icon>https://leilimei.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Chengdu Shengnuo Biopharm Co., Ltd</rights>
+    <entry>
+        <title type="html"><![CDATA[Corporate Culture]]></title>
+        <id>https://leilimei.github.io//post/_Me7xW6j2</id>
+        <link href="https://leilimei.github.io//post/_Me7xW6j2">
+        </link>
+        <updated>2019-12-23T11:04:28.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ShengNuo Biology ]]></title>
+        <id>https://leilimei.github.io//post/xLwXQkzB0</id>
+        <link href="https://leilimei.github.io//post/xLwXQkzB0">
+        </link>
+        <updated>2019-12-23T11:03:14.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PRODUCT ALL ]]></title>
         <id>https://leilimei.github.io//post/_c0Gu1Y75</id>
@@ -61,7 +75,7 @@ Equipment<br>
         <updated>2019-12-23T10:29:05.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CHENGDU SHENGNUO BIOPHARM CO., LTD]]></title>
+        <title type="html"><![CDATA[About Us--CHENGDU SHENGNUO BIOPHARM CO., LTD]]></title>
         <id>https://leilimei.github.io//post/M_LhJm4yn</id>
         <link href="https://leilimei.github.io//post/M_LhJm4yn">
         </link>
@@ -110,7 +124,7 @@ Equipment<br>
         <updated>2019-12-20T12:35:15.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chengdu Shengnuo Biopharm Co., Ltd]]></title>
+        <title type="html"><![CDATA[Contact--Chengdu Shengnuo Biopharm Co., Ltd]]></title>
         <id>https://leilimei.github.io//post/LDNh4tqiR</id>
         <link href="https://leilimei.github.io//post/LDNh4tqiR">
         </link>
