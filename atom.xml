@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leilimei.github.io</id>
     <title>Peptide, beauty peptide, peptide drug，china，Chengdu Shengnuo Biopharm Co., Ltd</title>
-    <updated>2019-12-26T04:30:27.614Z</updated>
+    <updated>2019-12-26T05:19:38.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leilimei.github.io"/>
     <link rel="self" href="https://leilimei.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://leilimei.github.io/images/avatar.png</logo>
     <icon>https://leilimei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Peptide, beauty peptide, peptide drug，china，Chengdu Shengnuo Biopharm Co., Ltd</rights>
+    <entry>
+        <title type="html"><![CDATA[Peptide product list]]></title>
+        <id>https://leilimei.github.io/post/M-Sa0KqXn</id>
+        <link href="https://leilimei.github.io/post/M-Sa0KqXn">
+        </link>
+        <updated>2019-12-26T05:09:46.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PRODUCT 10 --Peptide drugs: thymopentin for injection]]></title>
         <id>https://leilimei.github.io/post/WstMVAZB5</id>
