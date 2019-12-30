@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leilimei.github.io</id>
     <title>Peptide, beauty peptide, peptide drug，china，Chengdu Shengnuo Biopharm Co., Ltd</title>
-    <updated>2019-12-27T07:43:24.798Z</updated>
+    <updated>2019-12-30T01:58:53.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leilimei.github.io"/>
     <link rel="self" href="https://leilimei.github.io/atom.xml"/>
@@ -10,6 +10,41 @@
     <logo>https://leilimei.github.io/images/avatar.png</logo>
     <icon>https://leilimei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Peptide, beauty peptide, peptide drug，china，Chengdu Shengnuo Biopharm Co., Ltd</rights>
+    <entry>
+        <title type="html"><![CDATA[PRODUCT 12 --Enfvetide for injection]]></title>
+        <id>https://leilimei.github.io/post/1rBHQFD_n</id>
+        <link href="https://leilimei.github.io/post/1rBHQFD_n">
+        </link>
+        <updated>2019-12-30T01:55:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Function of polypeptide]]></title>
+        <id>https://leilimei.github.io/post/OgRDsnOkR</id>
+        <link href="https://leilimei.github.io/post/OgRDsnOkR">
+        </link>
+        <updated>2019-12-30T01:52:30.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peptide synthesis: enzyme method is better than chemical method]]></title>
+        <id>https://leilimei.github.io/post/ayFOd74y5</id>
+        <link href="https://leilimei.github.io/post/ayFOd74y5">
+        </link>
+        <updated>2019-12-30T01:50:40.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nutrition research direction of polypeptide（9）]]></title>
+        <id>https://leilimei.github.io/post/s2MB7VUFM</id>
+        <link href="https://leilimei.github.io/post/s2MB7VUFM">
+        </link>
+        <updated>2019-12-30T01:43:04.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nutrition research direction of polypeptide（8）]]></title>
+        <id>https://leilimei.github.io/post/cShmNpZZw</id>
+        <link href="https://leilimei.github.io/post/cShmNpZZw">
+        </link>
+        <updated>2019-12-30T01:37:49.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PRODUCT 11 --Thymus injection method new]]></title>
         <id>https://leilimei.github.io/post/uy4IWB9q3</id>
