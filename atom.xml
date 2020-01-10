@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leilimei.github.io</id>
     <title>Peptide, beauty peptide, peptide drug，china，Chengdu Shengnuo Biopharm Co., Ltd</title>
-    <updated>2020-01-07T01:26:28.724Z</updated>
+    <updated>2020-01-10T01:46:48.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leilimei.github.io"/>
     <link rel="self" href="https://leilimei.github.io/atom.xml"/>
@@ -10,6 +10,41 @@
     <logo>https://leilimei.github.io/images/avatar.png</logo>
     <icon>https://leilimei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Peptide, beauty peptide, peptide drug，china，Chengdu Shengnuo Biopharm Co., Ltd</rights>
+    <entry>
+        <title type="html"><![CDATA[Polypeptide drugs: from "old poison", but "Huang Yaoshi"]]></title>
+        <id>https://leilimei.github.io/post/sRPv71UmX</id>
+        <link href="https://leilimei.github.io/post/sRPv71UmX">
+        </link>
+        <updated>2020-01-10T01:42:56.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Common polypeptide drugs]]></title>
+        <id>https://leilimei.github.io/post/ODrXjtmp3</id>
+        <link href="https://leilimei.github.io/post/ODrXjtmp3">
+        </link>
+        <updated>2020-01-10T01:39:51.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Classification and development of peptide drugs]]></title>
+        <id>https://leilimei.github.io/post/qiK1xTF27</id>
+        <link href="https://leilimei.github.io/post/qiK1xTF27">
+        </link>
+        <updated>2020-01-10T01:35:07.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Common polypeptide drugs]]></title>
+        <id>https://leilimei.github.io/post/ewwVnKyMN</id>
+        <link href="https://leilimei.github.io/post/ewwVnKyMN">
+        </link>
+        <updated>2020-01-10T01:32:19.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Common methods of separation and purification of polypeptide and protein]]></title>
+        <id>https://leilimei.github.io/post/HIgs4RjaC</id>
+        <link href="https://leilimei.github.io/post/HIgs4RjaC">
+        </link>
+        <updated>2020-01-10T01:25:49.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The latest research: target peptide is expected to become a tumor immunotherapy drug after optimization]]></title>
         <id>https://leilimei.github.io/post/MaT05lISt</id>
