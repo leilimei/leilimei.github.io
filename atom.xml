@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leilimei.github.io</id>
     <title>Peptide, beauty peptide, peptide drug，china，Chengdu Shengnuo Biopharm Co., Ltd</title>
-    <updated>2020-01-15T09:51:53.737Z</updated>
+    <updated>2020-01-16T01:42:59.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leilimei.github.io"/>
     <link rel="self" href="https://leilimei.github.io/atom.xml"/>
@@ -10,6 +10,41 @@
     <logo>https://leilimei.github.io/images/avatar.png</logo>
     <icon>https://leilimei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Peptide, beauty peptide, peptide drug，china，Chengdu Shengnuo Biopharm Co., Ltd</rights>
+    <entry>
+        <title type="html"><![CDATA[Some basic and common knowledge about polypeptides]]></title>
+        <id>https://leilimei.github.io/post/EzTzHsO1g</id>
+        <link href="https://leilimei.github.io/post/EzTzHsO1g">
+        </link>
+        <updated>2020-01-16T01:40:26.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The new method can significantly prolong the half-life of polypeptide drugs in vivo]]></title>
+        <id>https://leilimei.github.io/post/nWdOFzqk-</id>
+        <link href="https://leilimei.github.io/post/nWdOFzqk-">
+        </link>
+        <updated>2020-01-16T01:37:48.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Classification and development of peptide drugs]]></title>
+        <id>https://leilimei.github.io/post/taiLGQu6M</id>
+        <link href="https://leilimei.github.io/post/taiLGQu6M">
+        </link>
+        <updated>2020-01-16T01:32:07.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Properties of peptide bond and function of peptide]]></title>
+        <id>https://leilimei.github.io/post/2ZG7hvLjf</id>
+        <link href="https://leilimei.github.io/post/2ZG7hvLjf">
+        </link>
+        <updated>2020-01-16T01:30:31.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nature: heavyweight! Peptides can be synthesized without amino acids, which helps to reveal the secret of the origin of life]]></title>
+        <id>https://leilimei.github.io/post/KnQJRkoo8</id>
+        <link href="https://leilimei.github.io/post/KnQJRkoo8">
+        </link>
+        <updated>2020-01-16T01:25:33.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The new molecular mechanism of plant peptide hormone recognized by receptor was revealed in the paper published by Chai Jijie, Institute of life, in nature]]></title>
         <id>https://leilimei.github.io/post/So1iBhb8v</id>
