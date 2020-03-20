@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leilimei.github.io</id>
     <title>Peptide,Amyloids,Peptides YY,peptide synthesis,Custom Peptide, MOG(35-55)ß-Amyloid,Melanocyte Stimulating Hormones(MSH) ,Adrenocorticotropic Hormones (ACTH)</title>
-    <updated>2020-03-20T02:32:37.149Z</updated>
+    <updated>2020-03-20T10:02:54.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leilimei.github.io"/>
     <link rel="self" href="https://leilimei.github.io/atom.xml"/>
@@ -11,6 +11,13 @@ More than 50 peptide drugs and key technologies of large-scale production have b
     <logo>https://leilimei.github.io/images/avatar.png</logo>
     <icon>https://leilimei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Peptide,Amyloids,Peptides YY,peptide synthesis,Custom Peptide, MOG(35-55)ß-Amyloid,Melanocyte Stimulating Hormones(MSH) ,Adrenocorticotropic Hormones (ACTH)</rights>
+    <entry>
+        <title type="html"><![CDATA[Chengdu Shengnuo Biotechnology Co Peptide preparation workshop equipment]]></title>
+        <id>https://leilimei.github.io/post/oDsbLsZtz</id>
+        <link href="https://leilimei.github.io/post/oDsbLsZtz">
+        </link>
+        <updated>2020-03-20T09:49:10.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New discovery of small molecule active peptide: unusual small molecule active peptide]]></title>
         <id>https://leilimei.github.io/post/4xFRyQC1o</id>
@@ -38,6 +45,13 @@ More than 50 peptide drugs and key technologies of large-scale production have b
         <link href="https://leilimei.github.io/post/EfyNPPabv">
         </link>
         <updated>2020-03-20T01:46:26.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chengdu Shengnuo Biotechnology Co Key Production Equipment]]></title>
+        <id>https://leilimei.github.io/post/0mUAdjo3w</id>
+        <link href="https://leilimei.github.io/post/0mUAdjo3w">
+        </link>
+        <updated>2020-03-20T01:31:12.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[ General process of solid-phase synthesis of Chengdu Shengnuo Biotechnology Co]]></title>
