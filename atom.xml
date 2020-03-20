@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leilimei.github.io</id>
     <title>Peptide,Amyloids,Peptides YY,peptide synthesis,Custom Peptide, MOG(35-55)ß-Amyloid,Melanocyte Stimulating Hormones(MSH) ,Adrenocorticotropic Hormones (ACTH)</title>
-    <updated>2020-03-19T11:34:58.226Z</updated>
+    <updated>2020-03-20T02:20:11.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leilimei.github.io"/>
     <link rel="self" href="https://leilimei.github.io/atom.xml"/>
@@ -11,6 +11,41 @@ More than 50 peptide drugs and key technologies of large-scale production have b
     <logo>https://leilimei.github.io/images/avatar.png</logo>
     <icon>https://leilimei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Peptide,Amyloids,Peptides YY,peptide synthesis,Custom Peptide, MOG(35-55)ß-Amyloid,Melanocyte Stimulating Hormones(MSH) ,Adrenocorticotropic Hormones (ACTH)</rights>
+    <entry>
+        <title type="html"><![CDATA[New discovery of small molecule active peptide: unusual small molecule active peptide]]></title>
+        <id>https://leilimei.github.io/post/4xFRyQC1o</id>
+        <link href="https://leilimei.github.io/post/4xFRyQC1o">
+        </link>
+        <updated>2020-03-20T02:13:22.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Small molecule peptide regulates microcirculation, are you still slack?]]></title>
+        <id>https://leilimei.github.io/post/sqGLOdIuf</id>
+        <link href="https://leilimei.github.io/post/sqGLOdIuf">
+        </link>
+        <updated>2020-03-20T02:09:08.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peptide has seven nourishments. Those who can keep healthy know the efficacy and function of peptide]]></title>
+        <id>https://leilimei.github.io/post/JhUanEErY</id>
+        <link href="https://leilimei.github.io/post/JhUanEErY">
+        </link>
+        <updated>2020-03-20T01:47:09.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knowledge sharing of bioactive peptides]]></title>
+        <id>https://leilimei.github.io/post/EfyNPPabv</id>
+        <link href="https://leilimei.github.io/post/EfyNPPabv">
+        </link>
+        <updated>2020-03-20T01:46:26.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chengdu Shengnuo Biotechnology Co facilities and equipment]]></title>
+        <id>https://leilimei.github.io/post/0mUAdjo3w</id>
+        <link href="https://leilimei.github.io/post/0mUAdjo3w">
+        </link>
+        <updated>2020-03-20T01:31:12.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ General process of solid-phase synthesis of Chengdu Shengnuo Biotechnology Co]]></title>
         <id>https://leilimei.github.io/post/Kq8cNZ_1X</id>
