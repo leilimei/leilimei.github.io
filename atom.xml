@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leilimei.github.io</id>
     <title>Peptide,Amyloids,Peptides YY,peptide synthesis,Custom Peptide, MOG(35-55)ß-Amyloid,Melanocyte Stimulating Hormones(MSH) ,Adrenocorticotropic Hormones (ACTH)</title>
-    <updated>2020-03-20T10:02:54.026Z</updated>
+    <updated>2020-03-23T03:11:04.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leilimei.github.io"/>
     <link rel="self" href="https://leilimei.github.io/atom.xml"/>
@@ -11,6 +11,41 @@ More than 50 peptide drugs and key technologies of large-scale production have b
     <logo>https://leilimei.github.io/images/avatar.png</logo>
     <icon>https://leilimei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Peptide,Amyloids,Peptides YY,peptide synthesis,Custom Peptide, MOG(35-55)ß-Amyloid,Melanocyte Stimulating Hormones(MSH) ,Adrenocorticotropic Hormones (ACTH)</rights>
+    <entry>
+        <title type="html"><![CDATA[Why do you get sick? Why do you grow old?]]></title>
+        <id>https://leilimei.github.io/post/5mL1_ijUM</id>
+        <link href="https://leilimei.github.io/post/5mL1_ijUM">
+        </link>
+        <updated>2020-03-23T03:09:58.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peptide: repair of drug damaged liver]]></title>
+        <id>https://leilimei.github.io/post/eZYCSNVCG</id>
+        <link href="https://leilimei.github.io/post/eZYCSNVCG">
+        </link>
+        <updated>2020-03-23T03:04:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peptide products are more and more widely used]]></title>
+        <id>https://leilimei.github.io/post/H3ngoAAZ0</id>
+        <link href="https://leilimei.github.io/post/H3ngoAAZ0">
+        </link>
+        <updated>2020-03-23T03:01:51.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The "high quality food" of human immune Corps was originally small molecule peptide]]></title>
+        <id>https://leilimei.github.io/post/amusg7uNm</id>
+        <link href="https://leilimei.github.io/post/amusg7uNm">
+        </link>
+        <updated>2020-03-23T03:01:10.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The function of small molecule active peptide and the function of small molecule active peptide to health]]></title>
+        <id>https://leilimei.github.io/post/7mlX6BxLB</id>
+        <link href="https://leilimei.github.io/post/7mlX6BxLB">
+        </link>
+        <updated>2020-03-23T02:59:22.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chengdu Shengnuo Biotechnology Co Peptide preparation workshop equipment]]></title>
         <id>https://leilimei.github.io/post/oDsbLsZtz</id>
